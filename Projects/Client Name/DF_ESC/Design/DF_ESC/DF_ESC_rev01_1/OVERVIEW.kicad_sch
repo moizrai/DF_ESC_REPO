@@ -5,4 +5,16 @@
 	(uuid "a9bd4473-be2f-4c25-86fe-9d20c55c7b17")
 	(paper "A4")
 	(lib_symbols)
+	(text "USB"
+		(exclude_from_sim no)
+		(at 138.43 27.94 0)
+		(effects
+			(font
+				(size 10 10)
+				(thickness 2)
+				(bold yes)
+			)
+		)
+		(uuid "15a5f3c1-e983-44f6-bdcf-b1eb2d94b0a4")
+	)
 )

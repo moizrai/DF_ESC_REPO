@@ -644,10 +644,6 @@
       "BLOCK DIAGRAM"
     ],
     [
-      "47f2fa1d-34b4-4e33-a6bb-a88c7b887cf2",
-      "OVERVIEW"
-    ],
-    [
       "75814875-39ca-4c03-a410-7f9a1bf6a43b",
       "MOSFET DRIVER"
     ],
@@ -656,7 +652,19 @@
       "FILTERS"
     ],
     [
-      "adb8f805-0801-4e09-8a4f-83ab164c8b95",
+      "732f313a-aed2-4a00-b597-b91454d253d8",
+      "INPUT PROTECTION"
+    ],
+    [
+      "b8c7af2f-cbfc-41e8-b9af-394ddcc411ad",
+      "STEP-DOWN"
+    ],
+    [
+      "59bc1988-2ad6-4f61-acad-8bff82aebf4d",
+      "USB"
+    ],
+    [
+      "87aa05ce-57db-4e4c-b284-68f96721d519",
       "MECHANICAL"
     ]
   ],

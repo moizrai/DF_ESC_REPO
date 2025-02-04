@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "c915a667-3198-496d-91f9-81d3ba995ec8")
 	(paper "A4")
+	(title_block
+		(title "MCU")
+		(date "2025-02-03")
+		(rev "rev01_1")
+		(company "coVenture")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
@@ -6010,6 +6016,16 @@
 		)
 		(uuid "fff12fb8-6252-447a-b2d1-3074a0bb7fd9")
 	)
+	(text "Muhammad Moiz\n"
+		(exclude_from_sim no)
+		(at 210.566 168.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "00fd76d1-23a3-40a3-9aaf-f747b5849bf1")
+	)
 	(text "NTC_THERMISTOR\n"
 		(exclude_from_sim no)
 		(at 266.7 20.32 0)
@@ -6071,6 +6087,16 @@
 			)
 		)
 		(uuid "a4a541a0-5337-4dd6-8eb1-4a3162716560")
+	)
+	(text "03407610395\n"
+		(exclude_from_sim no)
+		(at 209.55 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b20f265f-a920-4232-98ab-3c2f879895c8")
 	)
 	(text "WHEN VDC = 60V =>\nAN_IN = 3V204"
 		(exclude_from_sim no)
@@ -6135,6 +6161,16 @@
 			)
 		)
 		(uuid "f19c990e-886b-451b-bd67-322ba6778178")
+	)
+	(text "moizrai765yt@gmail.com\n"
+		(exclude_from_sim no)
+		(at 214.63 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f82cb062-50dc-4557-8680-c822d020a3da")
 	)
 	(label "LED_GREEN"
 		(at 106.68 93.98 0)

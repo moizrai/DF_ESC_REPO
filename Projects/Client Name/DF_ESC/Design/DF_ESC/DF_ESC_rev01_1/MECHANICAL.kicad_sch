@@ -4,5 +4,41 @@
 	(generator_version "8.0")
 	(uuid "58090df7-d6b2-4bfe-a00c-cd4bc2733c20")
 	(paper "A4")
+	(title_block
+		(title "MECHANICAL")
+		(date "2025-02-03")
+		(rev "rev01_1")
+		(company "coVenture")
+	)
 	(lib_symbols)
+	(text "Muhammad Moiz\n"
+		(exclude_from_sim no)
+		(at 210.566 168.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "abb4e578-fd7f-4e4f-8f26-ee0682ebbaa8")
+	)
+	(text "moizrai765yt@gmail.com\n"
+		(exclude_from_sim no)
+		(at 214.63 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b684bedf-4d31-4947-ac09-9ddcd48c2640")
+	)
+	(text "03407610395\n"
+		(exclude_from_sim no)
+		(at 209.55 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cf87de38-af4b-4136-978a-73b46517db05")
+	)
 )

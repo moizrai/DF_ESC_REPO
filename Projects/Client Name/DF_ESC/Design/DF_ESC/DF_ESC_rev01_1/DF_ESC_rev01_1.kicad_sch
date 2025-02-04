@@ -7,7 +7,7 @@
 	(title_block
 		(title "DF_ESC_rev01_1")
 		(date "2025-01-29")
-		(rev "rev01")
+		(rev "rev01_1")
 		(company "coVenture")
 	)
 	(lib_symbols)
@@ -92,7 +92,7 @@
 		)
 	)
 	(sheet
-		(at 78.74 35.56)
+		(at 26.67 35.56)
 		(size 36.83 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -104,7 +104,7 @@
 		)
 		(uuid "1ffb5a1e-118e-42bb-adab-0b3662d680ed")
 		(property "Sheetname" "BLOCK DIAGRAM"
-			(at 78.74 34.8484 0)
+			(at 26.67 34.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,7 +113,7 @@
 			)
 		)
 		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
-			(at 78.74 62.8146 0)
+			(at 26.67 62.8146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -168,8 +168,8 @@
 		)
 	)
 	(sheet
-		(at 27.94 35.56)
-		(size 35.56 26.67)
+		(at 27.94 128.27)
+		(size 34.29 33.02)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -178,9 +178,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "47f2fa1d-34b4-4e33-a6bb-a88c7b887cf2")
-		(property "Sheetname" "OVERVIEW"
-			(at 27.94 34.8484 0)
+		(uuid "59bc1988-2ad6-4f61-acad-8bff82aebf4d")
+		(property "Sheetname" "USB"
+			(at 27.94 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -188,8 +188,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "OVERVIEW.kicad_sch"
-			(at 27.94 62.8146 0)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 27.94 161.8746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -200,7 +200,45 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "6")
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 35.56)
+		(size 34.29 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "732f313a-aed2-4a00-b597-b91454d253d8")
+		(property "Sheetname" "INPUT PROTECTION"
+			(at 76.2 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INPUT PROTECTION.kicad_sch"
+			(at 76.2 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DF_ESC_rev01_1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "9")
 				)
 			)
 		)
@@ -282,6 +320,44 @@
 		)
 	)
 	(sheet
+		(at 74.93 129.54)
+		(size 38.1 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "87aa05ce-57db-4e4c-b284-68f96721d519")
+		(property "Sheetname" "MECHANICAL"
+			(at 74.93 128.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MECHANICAL.kicad_sch"
+			(at 74.93 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DF_ESC_rev01_1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 125.73 85.09)
 		(size 35.56 26.67)
 		(fields_autoplaced yes)
@@ -320,8 +396,8 @@
 		)
 	)
 	(sheet
-		(at 27.94 127)
-		(size 36.83 33.02)
+		(at 124.46 35.56)
+		(size 36.83 27.94)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -330,9 +406,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "adb8f805-0801-4e09-8a4f-83ab164c8b95")
-		(property "Sheetname" "MECHANICAL"
-			(at 27.94 126.2884 0)
+		(uuid "b8c7af2f-cbfc-41e8-b9af-394ddcc411ad")
+		(property "Sheetname" "STEP-DOWN"
+			(at 124.46 34.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -340,8 +416,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MECHANICAL.kicad_sch"
-			(at 27.94 160.6046 0)
+		(property "Sheetfile" "STEP-DOWN.kicad_sch"
+			(at 124.46 64.0846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -352,7 +428,7 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "9")
+					(page "10")
 				)
 			)
 		)

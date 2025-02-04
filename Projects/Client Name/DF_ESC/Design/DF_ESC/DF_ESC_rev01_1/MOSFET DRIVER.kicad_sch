@@ -6,7 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "MOSFET DRIVER")
-		(date "2025-01-30")
+		(date "2025-02-03")
+		(rev "rev01_1")
 		(company "coVenture")
 	)
 	(lib_symbols
@@ -5135,6 +5136,16 @@
 		)
 		(uuid "20d0490a-f361-47e0-b338-b28e79af1d99")
 	)
+	(text "03407610395\n"
+		(exclude_from_sim no)
+		(at 209.55 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2187c64d-c117-4d7a-86ce-37fc53913b80")
+	)
 	(text "OUTPUT PORTS"
 		(exclude_from_sim no)
 		(at 256.54 19.05 0)
@@ -5241,6 +5252,26 @@
 			)
 		)
 		(uuid "9e014792-bdc2-44b6-b23b-c8919aaffe4c")
+	)
+	(text "moizrai765yt@gmail.com\n"
+		(exclude_from_sim no)
+		(at 214.63 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aadf61af-1271-4d36-98e5-6bdbe961cd93")
+	)
+	(text "Muhammad Moiz\n"
+		(exclude_from_sim no)
+		(at 210.566 168.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5871736-581a-4a31-8933-5523d2a8074c")
 	)
 	(text "INPUT PORTS"
 		(exclude_from_sim no)
