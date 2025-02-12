@@ -2021,6 +2021,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 135.89) (xy 109.22 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b4e710-4884-4782-902a-83599d5f2bd8")
+	)
+	(wire
+		(pts
 			(xy 181.61 80.01) (xy 193.04 80.01)
 		)
 		(stroke
@@ -2809,6 +2819,19 @@
 		)
 		(uuid "0488c149-cd62-4843-9357-8dc8c6f510c9")
 	)
+	(label "ADC_TEMP"
+		(at 109.22 135.89 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+				(thickness 0.26)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "307a7bab-8328-446e-990d-0a557eeed27a")
+	)
 	(label "AN_IN"
 		(at 259.08 44.45 0)
 		(effects
@@ -3033,7 +3056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 182.5752 90.17 0)
 			(effects
 				(font
@@ -3104,7 +3127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -3495,7 +3518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 99.822 127 90)
 			(effects
 				(font
@@ -3631,7 +3654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 120.3452 130.81 0)
 			(effects
 				(font
@@ -3702,7 +3725,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "XT60PW-M:AMASS_XT60PW-M"
 			(at 87.63 130.81 0)
 			(effects
 				(font
@@ -3778,7 +3801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 169.672 86.36 90)
 			(effects
 				(font
@@ -3848,7 +3871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1W_3W_R8"
 			(at 222.25 83.82 0)
 			(effects
 				(font
@@ -3918,7 +3941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 169.672 73.66 90)
 			(effects
 				(font
@@ -3989,7 +4012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon"
 			(at 144.78 80.01 0)
 			(effects
 				(font
@@ -4125,7 +4148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 101.6 147.32 0)
 			(effects
 				(font
@@ -4463,7 +4486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 220.472 71.12 90)
 			(effects
 				(font

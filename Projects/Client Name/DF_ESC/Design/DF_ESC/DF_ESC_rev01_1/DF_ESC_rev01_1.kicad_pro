@@ -628,28 +628,8 @@
       "Root"
     ],
     [
-      "3ebf94d4-658f-47ca-8949-34db2c5b837b",
-      "MCU"
-    ],
-    [
-      "76dd35d6-7b55-4838-98f2-ee42210d7296",
-      "CAN"
-    ],
-    [
-      "9a0f3e7c-c741-4f72-a420-b5ade149b6b8",
-      "MOSFETs"
-    ],
-    [
       "1ffb5a1e-118e-42bb-adab-0b3662d680ed",
       "BLOCK DIAGRAM"
-    ],
-    [
-      "75814875-39ca-4c03-a410-7f9a1bf6a43b",
-      "MOSFET DRIVER"
-    ],
-    [
-      "09cac65b-5818-4684-a461-7ea181b7ddb0",
-      "FILTERS"
     ],
     [
       "732f313a-aed2-4a00-b597-b91454d253d8",
@@ -658,6 +638,26 @@
     [
       "b8c7af2f-cbfc-41e8-b9af-394ddcc411ad",
       "STEP-DOWN"
+    ],
+    [
+      "3ebf94d4-658f-47ca-8949-34db2c5b837b",
+      "MCU"
+    ],
+    [
+      "75814875-39ca-4c03-a410-7f9a1bf6a43b",
+      "MOSFET DRIVER"
+    ],
+    [
+      "9a0f3e7c-c741-4f72-a420-b5ade149b6b8",
+      "MOSFETs"
+    ],
+    [
+      "76dd35d6-7b55-4838-98f2-ee42210d7296",
+      "CAN"
+    ],
+    [
+      "09cac65b-5818-4684-a461-7ea181b7ddb0",
+      "FILTERS"
     ],
     [
       "59bc1988-2ad6-4f61-acad-8bff82aebf4d",

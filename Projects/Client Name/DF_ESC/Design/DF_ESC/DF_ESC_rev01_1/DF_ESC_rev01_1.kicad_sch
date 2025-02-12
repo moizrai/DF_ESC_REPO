@@ -11,6 +11,18 @@
 		(company "coVenture")
 	)
 	(lib_symbols)
+	(text "10"
+		(exclude_from_sim no)
+		(at 109.22 157.48 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "0cccb242-46c4-4155-8065-e096a02fe45a")
+	)
 	(text "${PROJECTNAME}"
 		(exclude_from_sim no)
 		(at 140.462 24.892 0)
@@ -23,6 +35,18 @@
 		)
 		(uuid "20475be8-9567-46b1-aa17-45b449c701ae")
 	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 57.15 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "25c5dcd0-c8fd-4c59-bd11-3f45965ab2f4")
+	)
 	(text "Muhammad Moiz\n"
 		(exclude_from_sim no)
 		(at 211.328 168.402 0)
@@ -32,6 +56,42 @@
 			)
 		)
 		(uuid "26daaf6d-e6b0-4cd7-8cb0-046963eb4f4d")
+	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 207.01 72.39 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "34b6c2b9-ae55-4722-a4cf-f26f2ebb6732")
+	)
+	(text "8"
+		(exclude_from_sim no)
+		(at 209.55 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "375bd076-56af-40e3-a77d-7aec92ae74a1")
+	)
+	(text "7"
+		(exclude_from_sim no)
+		(at 158.75 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "3911639a-d50a-4e1d-9fae-ffb484008821")
 	)
 	(text "moizrai765yt@gmail.com\n"
 		(exclude_from_sim no)
@@ -43,6 +103,54 @@
 		)
 		(uuid "42c038f8-f2ce-474b-b44a-26bca8e7a6ac")
 	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 109.22 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "480127bb-f08b-42fd-b7d2-cf5e7e035ffc")
+	)
+	(text "9"
+		(exclude_from_sim no)
+		(at 57.15 157.48 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "82dde935-aabd-42c6-b4aa-95599e7d9f74")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 55.88 69.85 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "86527c69-8b2b-49ea-80f6-17d5c0025d9d")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 109.22 71.12 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "9dd6a5b6-afe2-4c52-be3f-42dcf85d998a")
+	)
 	(text "03407610395\n"
 		(exclude_from_sim no)
 		(at 210.312 177.546 0)
@@ -53,8 +161,20 @@
 		)
 		(uuid "bfae0847-1e56-4f0e-a31a-5f8ee1dfec13")
 	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 157.48 72.39 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "d355c5b6-8af4-40be-873d-a41f1c6e98d5")
+	)
 	(sheet
-		(at 224.79 85.09)
+		(at 175.26 87.63)
 		(size 36.83 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -62,11 +182,11 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "09cac65b-5818-4684-a461-7ea181b7ddb0")
 		(property "Sheetname" "FILTERS"
-			(at 224.79 84.3784 0)
+			(at 175.26 86.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,7 +195,7 @@
 			)
 		)
 		(property "Sheetfile" "FILTERS.kicad_sch"
-			(at 224.79 112.3446 0)
+			(at 175.26 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86,25 +206,25 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "8")
+					(page "08")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 26.67 35.56)
-		(size 36.83 26.67)
+		(at 25.4 46.99)
+		(size 34.29 26.67)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "1ffb5a1e-118e-42bb-adab-0b3662d680ed")
 		(property "Sheetname" "BLOCK DIAGRAM"
-			(at 26.67 34.8484 0)
+			(at 25.4 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,7 +233,7 @@
 			)
 		)
 		(property "Sheetfile" "BLOCK DIAGRAM.kicad_sch"
-			(at 26.67 62.8146 0)
+			(at 25.4 74.2446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -124,13 +244,13 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "5")
+					(page "01")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 27.94 85.09)
+		(at 173.99 46.99)
 		(size 35.56 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -138,11 +258,11 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "3ebf94d4-658f-47ca-8949-34db2c5b837b")
 		(property "Sheetname" "MCU"
-			(at 27.94 84.3784 0)
+			(at 173.99 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -151,7 +271,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 27.94 113.6146 0)
+			(at 173.99 75.5146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,13 +282,13 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "2")
+					(page "04")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 27.94 128.27)
+		(at 25.4 127)
 		(size 34.29 33.02)
 		(fields_autoplaced yes)
 		(stroke
@@ -176,11 +296,11 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "59bc1988-2ad6-4f61-acad-8bff82aebf4d")
 		(property "Sheetname" "USB"
-			(at 27.94 127.5584 0)
+			(at 25.4 126.2884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -189,7 +309,7 @@
 			)
 		)
 		(property "Sheetfile" "USB.kicad_sch"
-			(at 27.94 161.8746 0)
+			(at 25.4 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -200,25 +320,25 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "11")
+					(page "09")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 76.2 35.56)
-		(size 34.29 26.67)
+		(at 74.93 46.99)
+		(size 36.83 26.67)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "732f313a-aed2-4a00-b597-b91454d253d8")
 		(property "Sheetname" "INPUT PROTECTION"
-			(at 76.2 34.8484 0)
+			(at 74.93 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -227,7 +347,7 @@
 			)
 		)
 		(property "Sheetfile" "INPUT PROTECTION.kicad_sch"
-			(at 76.2 62.8146 0)
+			(at 74.93 74.2446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -238,13 +358,13 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "9")
+					(page "02")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 74.93 85.09)
+		(at 25.4 87.63)
 		(size 34.29 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -252,11 +372,11 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "75814875-39ca-4c03-a410-7f9a1bf6a43b")
 		(property "Sheetname" "MOSFET DRIVER"
-			(at 74.93 84.3784 0)
+			(at 25.4 86.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -265,7 +385,7 @@
 			)
 		)
 		(property "Sheetfile" "MOSFET DRIVER.kicad_sch"
-			(at 74.93 112.3446 0)
+			(at 25.4 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -276,13 +396,13 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "7")
+					(page "05")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 173.99 85.09)
+		(at 124.46 87.63)
 		(size 36.83 27.94)
 		(fields_autoplaced yes)
 		(stroke
@@ -290,11 +410,11 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "76dd35d6-7b55-4838-98f2-ee42210d7296")
 		(property "Sheetname" "CAN"
-			(at 173.99 84.3784 0)
+			(at 124.46 86.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -303,7 +423,7 @@
 			)
 		)
 		(property "Sheetfile" "CAN.kicad_sch"
-			(at 173.99 113.6146 0)
+			(at 124.46 116.1546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -314,25 +434,25 @@
 		(instances
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "3")
+					(page "07")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 74.93 129.54)
-		(size 38.1 31.75)
+		(at 77.47 128.27)
+		(size 35.56 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 132 0 1.0000)
 		)
 		(uuid "87aa05ce-57db-4e4c-b284-68f96721d519")
 		(property "Sheetname" "MECHANICAL"
-			(at 74.93 128.8284 0)
+			(at 77.47 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -341,83 +461,7 @@
 			)
 		)
 		(property "Sheetfile" "MECHANICAL.kicad_sch"
-			(at 74.93 161.8746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "DF_ESC_rev01_1"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "11")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 125.73 85.09)
-		(size 35.56 26.67)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9a0f3e7c-c741-4f72-a420-b5ade149b6b8")
-		(property "Sheetname" "MOSFETs"
-			(at 125.73 84.3784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "MOSFETs.kicad_sch"
-			(at 125.73 112.3446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "DF_ESC_rev01_1"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 124.46 35.56)
-		(size 36.83 27.94)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "b8c7af2f-cbfc-41e8-b9af-394ddcc411ad")
-		(property "Sheetname" "STEP-DOWN"
-			(at 124.46 34.8484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "STEP-DOWN.kicad_sch"
-			(at 124.46 64.0846 0)
+			(at 77.47 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -429,6 +473,82 @@
 			(project "DF_ESC_rev01_1"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 87.63)
+		(size 35.56 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 132 0 1.0000)
+		)
+		(uuid "9a0f3e7c-c741-4f72-a420-b5ade149b6b8")
+		(property "Sheetname" "MOSFETs"
+			(at 76.2 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFETs.kicad_sch"
+			(at 76.2 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DF_ESC_rev01_1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "06")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 46.99)
+		(size 36.83 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 132 0 1.0000)
+		)
+		(uuid "b8c7af2f-cbfc-41e8-b9af-394ddcc411ad")
+		(property "Sheetname" "STEP-DOWN"
+			(at 123.19 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STEP-DOWN.kicad_sch"
+			(at 123.19 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DF_ESC_rev01_1"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "03")
 				)
 			)
 		)

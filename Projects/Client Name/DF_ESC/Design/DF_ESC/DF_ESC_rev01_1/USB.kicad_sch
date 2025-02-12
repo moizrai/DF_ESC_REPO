@@ -2348,7 +2348,7 @@
 		(uuid "f0c51260-8618-4581-9d5c-6bda1913232f")
 	)
 	(global_label "USB_N"
-		(shape input)
+		(shape bidirectional)
 		(at 267.97 54.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2359,7 +2359,7 @@
 		)
 		(uuid "1df15425-5425-478a-a636-a5faff143fce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.1584 54.61 0)
+			(at 278.1744 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2370,7 +2370,7 @@
 		)
 	)
 	(global_label "USB_P"
-		(shape input)
+		(shape bidirectional)
 		(at 267.97 58.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2381,7 +2381,7 @@
 		)
 		(uuid "d9bd7016-80ea-4045-9e71-e16aa230de69")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.0979 58.42 0)
+			(at 278.1139 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2417,7 +2417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Plug_Molex_105444"
 			(at 60.96 73.66 0)
 			(effects
 				(font
@@ -2596,7 +2596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 193.04 50.038 90)
 			(effects
 				(font
@@ -2666,7 +2666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 47.752 102.87 90)
 			(effects
 				(font
@@ -2735,7 +2735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 43.942 102.87 90)
 			(effects
 				(font
@@ -2802,7 +2802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 193.04 55.118 90)
 			(effects
 				(font
@@ -2872,7 +2872,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 123.952 67.31 90)
 			(effects
 				(font
@@ -2942,7 +2942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 113.792 69.85 90)
 			(effects
 				(font
@@ -3208,7 +3208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PUSB3AB6Z"
+		(property "Footprint" "PUSB3A6Z:PUSB3AB6Z"
 			(at 201.93 187.63 0)
 			(effects
 				(font
@@ -3431,7 +3431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 85.852 45.72 90)
 			(effects
 				(font
